@@ -1,5 +1,5 @@
 
-This GitHub repository is only intended for the related code and data designed for the public paper "Grand Canonical Monte Carlo Simulations on Energy Density of Nanoporous Metal-Organic Frameworks and Covalent-Organic Frameworks for Sorption Thermal Energy Storage". It mainly includes the Simulation folder and the Machine Learning folder.
+This GitHub repository is only intended for the related code and data designed for the public paper "Sorption Thermal Energy Storage Performance of Nanoporous Metal-Organic Frameworks and Covalent-Organic Frameworks by Grand Canonical Monte Carlo Simulations". It mainly includes the Simulation folder and the Machine Learning folder.
 
 The Simulation folder contains input files for GCMC (Grand Canonical Monte Carlo) simulations.
 
